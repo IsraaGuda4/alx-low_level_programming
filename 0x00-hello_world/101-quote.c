@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - starting point 
- * Description: printing programme
- * Return: 1
+*main - Entry
+*Return: 1
 */
 int main(void)
 {
