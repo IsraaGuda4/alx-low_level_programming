@@ -14,7 +14,7 @@ while (ch <= 'z')
 {
 	if (ch != 'q' && ch != 'a')
 		ch++;
-	putchar(c);
+	putchar(ch);
 	ch++;
 }
 putchar('\n');
