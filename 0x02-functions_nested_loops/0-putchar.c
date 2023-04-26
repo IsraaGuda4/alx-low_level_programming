@@ -1,13 +1,9 @@
 #include "main.h"
-
 /**
- * main - starting point
+ * main - print (_putchar)
  *
- * Description: prints _putchar using  putchar Prototype
- *
- * Return: 0 (success)
- *
-*/
+ * Return: Always 0.
+ */
 int main(void)
 {
 	_putchar('_');
