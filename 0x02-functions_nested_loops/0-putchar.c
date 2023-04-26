@@ -3,7 +3,7 @@
 /**
  * main - starting point
  *
- * Description:  prints _putchar using  putchar Prototype
+ * Description: prints _putchar using  putchar Prototype
  *
  * Return: 0 (success)
  *
